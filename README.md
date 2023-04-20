@@ -8,7 +8,7 @@ It involved:
 
 
 A pdf containing the PCB Design Schematic:
-[Solar_Irrigation_PCB](/Solar_Irrigation_PCB/Schematic_PDF/Solar_Irrigation_PCB.pdf)
+[Schematic_PDF](/Solar_Irrigation_PCB/Schematic_PDF/Solar_Irrigation_PCB.pdf)
 
 A snip of the web application UI:
 
