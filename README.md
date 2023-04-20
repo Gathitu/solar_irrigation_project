@@ -7,7 +7,7 @@ It involved:
 - Integration of Firebase database in the ESP32 and in the web application.
 
 
-Schematic PCB Design pdf:
+A pdf containing the PCB Design Schematic:
 [Solar_Irrigation_PCB](/Solar_Irrigation_PCB/Schematic_PDF/Solar_Irrigation_PCB.pdf)
 
 A snip of the web application UI:
